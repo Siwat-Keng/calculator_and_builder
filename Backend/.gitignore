@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+/.vscode/*
+Lib/*
+Scripts/*
+*.cfg
+*.pmc
+*.pyc
+.env
